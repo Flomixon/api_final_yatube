@@ -47,6 +47,7 @@
 Документация для API доступна по адресу
 ```
 http://127.0.0.1:8000/redoc/
+```
 
 ## :office_worker: Атор: 
 [Ермолов Виталий](https://github.com/Flomixon)
